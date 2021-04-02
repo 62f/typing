@@ -4,7 +4,7 @@ import abc
 from abc import abstractmethod, abstractproperty
 import collections
 import functools
-import re as stdlib_re  # Avoid confusion with the re we export.
+import re as stdlib_re  # To avoid confusing re with the re which we export.
 import sys
 import types
 import copy
