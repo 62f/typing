@@ -14,7 +14,7 @@ from copy import copy, deepcopy
 
 from typing import Any, NoReturn
 from typing import TypeVar, AnyStr
-from typing import T, KT, VT  # Not in __all__.
+from typing import T, KT, VT  # Not in __all__
 from typing import Union, Optional
 from typing import Tuple, List, MutableMapping
 from typing import Callable
