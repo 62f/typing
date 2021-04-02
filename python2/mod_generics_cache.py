@@ -1,4 +1,4 @@
-"""Module for testing the behavior of generics across different modules."""
+"""Module for testing behavior of generics across different modules."""
 
 from typing import TypeVar, Generic
 
